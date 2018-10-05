@@ -1,0 +1,9 @@
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.Form1.resources
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.Properties.Resources.resources
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.csproj.GenerateResource.Cache
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\bin\Debug\MySQL_Csharp.exe
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\bin\Debug\MySQL_Csharp.pdb
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\bin\Debug\MySql.Data.dll
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.exe
+C:\Users\sodunux\Documents\Github\MySQL_Csharp\MySQL_Csharp\obj\x86\Debug\MySQL_Csharp.pdb
